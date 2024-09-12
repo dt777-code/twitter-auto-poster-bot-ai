@@ -25,7 +25,7 @@ async function run() {
 
   // Write your prompt here
   const prompt =
-    "generate me a crypto quote and add this text at the back "https://x.com/_dt777/status/1830332242557886737" 
+    "generate me a crypto quote and add this text at the back tinyurl.com/ttyl1234" 
 
 add the words in the quotation ";
 
