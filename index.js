@@ -25,7 +25,9 @@ async function run() {
 
   // Write your prompt here
   const prompt =
-    "generate me a crypto joke";
+    "generate me a crypto quote and add this text at the back "https://x.com/_dt777/status/1830332242557886737" 
+
+add the words in the quotation ";
 
   const result = await model.generateContent(prompt);
   const response = await result.response;
