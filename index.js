@@ -25,7 +25,7 @@ async function run() {
 
   // Write your prompt here
   const prompt =
-    "generate me a crypto joke";
+    "generate me a motivational quotes";
 
   const result = await model.generateContent(prompt);
   const response = await result.response;
